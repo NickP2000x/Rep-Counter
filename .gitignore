@@ -1,0 +1,51 @@
+ndows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+*.pyc/
+*.pyo/
+*.pyd/
+*.pyz/
+*.pyzw/
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Editor-specific
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
+*.swp
+*~
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.log
+*.cache
+*.bak
+*.tmp
+*.tmp.*
+*.~lock.*
+*.swp
